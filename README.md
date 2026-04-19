@@ -77,5 +77,16 @@
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shihoravibhu/shihoravibhu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 ## ⚡ Fun Fact
 I enjoy improving my logical thinking and solving coding challenges daily 💡
