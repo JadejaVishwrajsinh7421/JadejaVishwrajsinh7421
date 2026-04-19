@@ -37,12 +37,12 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nestjs" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nestjs" />
 </p>
 
 ### 🗄️ Database
