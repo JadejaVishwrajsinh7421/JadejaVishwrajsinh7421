@@ -42,7 +42,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs" />
 </p>
 
 ### 🗄️ Database
