@@ -37,17 +37,18 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### 🗄️ Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
 </p>
 
 ---
