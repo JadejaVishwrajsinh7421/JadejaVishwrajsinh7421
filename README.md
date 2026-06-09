@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwrajsinh Jadeja</h1>
+<h1 align="center">I'm Vishwrajsinh Jadeja</h1>
 <h3 align="center">🚀 B.Tech CSE Student | Aspiring Full Stack Developer</h3>
 
 <p align="center">
